@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="c4d7660a-8e20-468d-8509-f1ab882840d9" Title="SampleConsumerWebPart" Scope="Site" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="SampleConsumerWebPart\SampleConsumerWebPart.xml" />
+    <ElementFile Location="SampleConsumerWebPart\SampleConsumerWebPart.webpart" />
+  </ElementManifests>
+</Feature>

@@ -1,0 +1,14 @@
+﻿<solution id="a8240edc-16ee-4072-983e-c7942499a8ab" name="ClientConnectionSample">
+  <features>
+    <feature id="c4d7660a-8e20-468d-8509-f1ab882840d9">
+      <featureElements>
+        <featureElement id="0bab1085-f5f8-42ba-a406-9c6f8619121e" name="SampleConsumerWebPart" />
+      </featureElements>
+    </feature>
+    <feature id="7885674f-7b54-47fd-961e-aeea0548e801">
+      <featureElements>
+        <featureElement id="9ddf3991-37ad-49db-9993-e874b65893b6" name="SampleProviderWebPart" />
+      </featureElements>
+    </feature>
+  </features>
+</solution>

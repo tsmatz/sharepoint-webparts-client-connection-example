@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution SolutionId="a8240edc-16ee-4072-983e-c7942499a8ab" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <FeatureManifests>
+    <FeatureManifest Location="SampleConsumerWebPart\feature.xml" />
+    <FeatureManifest Location="SampleProviderWebPart\feature.xml" />
+  </FeatureManifests>
+  <Assemblies>
+    <Assembly Location="ClientConnectionSample.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

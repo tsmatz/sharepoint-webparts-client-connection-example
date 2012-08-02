@@ -1,0 +1,5 @@
+C:\work\ClientConnectionSample\bin\Debug\ClientConnectionSample.dll
+C:\work\ClientConnectionSample\bin\Debug\ClientConnectionSample.pdb
+C:\work\ClientConnectionSample\obj\Debug\ResolveAssemblyReference.cache
+C:\work\ClientConnectionSample\obj\Debug\ClientConnectionSample.dll
+C:\work\ClientConnectionSample\obj\Debug\ClientConnectionSample.pdb

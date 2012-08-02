@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature Id="7885674f-7b54-47fd-961e-aeea0548e801" Title="SampleProviderWebPart" Scope="Site" Version="1.0.0.0" Hidden="FALSE" DefaultResourceFile="core" xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ElementManifests>
+    <ElementManifest Location="SampleProviderWebPart\SampleProviderWebPart.xml" />
+    <ElementFile Location="SampleProviderWebPart\SampleProviderWebPart.webpart" />
+  </ElementManifests>
+</Feature>
